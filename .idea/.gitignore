@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore build directories
+/out/
+build/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Environment files
+*.env
+
+
